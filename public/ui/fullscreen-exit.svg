@@ -1,0 +1,29 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Esquina superior izquierda (apuntando hacia adentro) -->
+  <path d="M9 2V5C9 6.65685 7.65685 8 6 8H3" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        fill="none"/>
+  
+  <!-- Esquina superior derecha (apuntando hacia adentro) -->
+  <path d="M15 2V5C15 6.65685 16.3431 8 18 8H21" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        fill="none"/>
+  
+  <!-- Esquina inferior derecha (apuntando hacia adentro) -->
+  <path d="M15 22V19C15 17.3431 16.3431 16 18 16H21" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        fill="none"/>
+  
+  <!-- Esquina inferior izquierda (apuntando hacia adentro) -->
+  <path d="M9 22V19C9 17.3431 7.65685 16 6 16H3" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        fill="none"/>
+</svg>

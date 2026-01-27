@@ -1,0 +1,30 @@
+{
+  "name": "ZVision",
+  "short_name": "ZVision",
+  "description": "ZVision - Experiencia inmersiva 3D",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/LOGO Z.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/LOGO Z.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false,
+  "categories": ["productivity", "utilities"],
+  "lang": "es",
+  "dir": "ltr",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"]
+}

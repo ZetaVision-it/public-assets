@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.029913mm"
+   height="15.877649mm"
+   viewBox="0 0 16.029913 15.877649"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="LOGO C.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1"><style
+       id="style1">
+      .cls-1 {
+        fill: #fafcff;
+      }
+
+      .cls-2 {
+        fill: #0374b7;
+      }
+    </style></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.500543,-87.816244)"><g
+       id="g2"
+       transform="matrix(0.26458333,0,0,0.26458333,62.68862,83.940096)"><path
+         class="cls-2"
+         d="m 20.24,14.66 h 50.75 c 3.08,0 5,3.33 3.46,5.99 -4.64,8.02 -12.59,21.8 -18.18,31.5 -1.4,2.44 -4.54,3.23 -6.94,1.76 v 0 c -2.3,-1.42 -3.06,-4.41 -1.71,-6.75 l 9.51,-16.51 c 1.54,-2.67 -0.39,-6 -3.46,-6 H 20.24 c -2.76,0 -5,-2.24 -5,-5 v 0 c 0,-2.76 2.24,-5 5,-5 z"
+         id="path1" /><path
+         class="cls-2"
+         d="M 69.16,74.65 H 18.41 c -3.08,0 -5,-3.33 -3.46,-5.99 4.64,-8.02 12.59,-21.8 18.18,-31.5 1.4,-2.44 4.54,-3.23 6.94,-1.76 v 0 c 2.3,1.42 3.06,4.41 1.71,6.75 l -9.51,16.51 c -1.54,2.67 0.39,6 3.46,6 h 33.44 c 2.76,0 5,2.24 5,5 v 0 c 0,2.76 -2.24,5 -5,5 z"
+         id="path2" /></g></g></svg>
